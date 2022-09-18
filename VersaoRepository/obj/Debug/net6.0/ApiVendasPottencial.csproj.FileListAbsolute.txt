@@ -1,0 +1,7 @@
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\TrabalhoFinal\tech-test-payment-api-Pottencial\VersaoRepository\obj\Debug\net6.0\ApiVendasPottencial.csproj.AssemblyReference.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\TrabalhoFinal\tech-test-payment-api-Pottencial\VersaoRepository\obj\Debug\net6.0\ApiVendasPottencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\TrabalhoFinal\tech-test-payment-api-Pottencial\VersaoRepository\obj\Debug\net6.0\ApiVendasPottencial.AssemblyInfoInputs.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\TrabalhoFinal\tech-test-payment-api-Pottencial\VersaoRepository\obj\Debug\net6.0\ApiVendasPottencial.AssemblyInfo.cs
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\TrabalhoFinal\tech-test-payment-api-Pottencial\VersaoRepository\obj\Debug\net6.0\ApiVendasPottencial.csproj.CoreCompileInputs.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\TrabalhoFinal\tech-test-payment-api-Pottencial\VersaoRepository\obj\Debug\net6.0\ApiVendasPottencial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\TrabalhoFinal\tech-test-payment-api-Pottencial\VersaoRepository\obj\Debug\net6.0\ApiVendasPottencial.MvcApplicationPartsAssemblyInfo.cache
