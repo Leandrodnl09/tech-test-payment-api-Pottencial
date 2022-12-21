@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\VersaoRepository\\VersaoRepository.csproj": {}
+    "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\ApiVendasPottencial.csproj": {}
   },
   "projects": {
-    "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\VersaoRepository\\VersaoRepository.csproj": {
+    "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\ApiVendasPottencial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\VersaoRepository\\VersaoRepository.csproj",
-        "projectName": "VersaoRepository",
-        "projectPath": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\VersaoRepository\\VersaoRepository.csproj",
+        "projectUniqueName": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\ApiVendasPottencial.csproj",
+        "projectName": "ApiVendasPottencial",
+        "projectPath": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\ApiVendasPottencial.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\VersaoRepository\\obj\\",
+        "outputPath": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

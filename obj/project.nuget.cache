@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pv/EUyGomRXv20S01jGxJ7zut59kLANuHSGzSdHEtFWMX64YC9UqCLA7CAwWjpOSBJ3mb76ObMyzb8P6iX3hTw==",
+  "dgSpecHash": "PkGqUq3f6VNhjXXCYk+NoAzsUmsFrELe5t5w/5IKQbc+GW1wkqoYdnLtOq1TE30M3gHpuizpuEO7t2WkkA6TRw==",
   "success": true,
-  "projectFilePath": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\VersaoRepository\\VersaoRepository.csproj",
+  "projectFilePath": "d:\\LEANDRO\\PROJETOS\\Linguagem CSHARP\\BootcampPottencial\\tech-test-payment-api-Pottencial\\ApiVendasPottencial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
